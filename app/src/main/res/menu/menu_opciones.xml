@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/context" android:title="Contextual">Ir  a Contextual</item>
+<item android:id="@+id/popup" android:title="popup">Ir  a Pop Up</item>
+<item android:id="@+id/principal" android:title="principal">Ir  a PRincipal</item>
+<item android:id="@+id/salir" android:title="salir">Salir</item>
+</menu>
